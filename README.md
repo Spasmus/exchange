@@ -1,4 +1,4 @@
-# exchange
+# exchange rate
 Get exchange rate from external api
 
 
